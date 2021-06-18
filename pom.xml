@@ -329,7 +329,7 @@
                                         <rulesets>
                                             <ruleset>/pmd-rules.xml</ruleset>
                                         </rulesets>
-                                        <!-- CPD options -->
+                                        <!-- CPD options sample -->
                                         <minimumTokens>20</minimumTokens>
                                         <ignoreIdentifiers>true</ignoreIdentifiers>
                                     </configuration>
